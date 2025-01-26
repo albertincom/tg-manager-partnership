@@ -5,7 +5,3 @@
 body {
   @apply bg-dark text-white;
 }
-
-html {
-  scroll-behavior: smooth;
-}

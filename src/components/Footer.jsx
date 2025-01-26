@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <footer className="bg-black py-12">
       <div className="max-w-6xl mx-auto px-4">
-        <div className="flex flex-col md:flex-row justify-between items-center mb-8 space-y-4 md:space-y-0">
+        <div className="flex justify-between items-center mb-8">
           <div className="flex items-center space-x-2">
             <FaTelegram className="text-3xl text-brand-blue" />
             <span className="font-bold text-xl">TeleAds</span>
